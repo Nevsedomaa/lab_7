@@ -22,7 +22,6 @@ def d1():
     mirror_image.show()
     mirror_image.save('image_mirror.jpg')
 
-
     rotate_image = image.rotate(180)
     rotate_image.show()
     rotate_image.save('image_rotate.jpg')
