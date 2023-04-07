@@ -5,7 +5,6 @@ import os
 
 file_name = "audio.wav"
 
-
 audio = AudioSegment.from_wav(file_name)
 
 
